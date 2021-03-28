@@ -1,0 +1,24 @@
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.sideNav{
+    margin: 20px;
+    flex: 1;
+    width: 20%;
+    height:70vh;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    
+}
+.body{
+    width: 80%;
+}
+.block{
+        background-color: whitesmoke;
+        width: 300px;
+        padding: 50px;
+        margin: 20px;
+}
